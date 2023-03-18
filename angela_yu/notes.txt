@@ -1,0 +1,15 @@
+### <br>
+# line break
+
+### <hr> 
+# horizontal rules
+# ex: <hr size="3" noshade>
+
+### <! -- -->
+# comments
+
+### <strong> <strong>
+# use this to bold stuff
+
+### <em> <em>
+# use this to italicize stuff
