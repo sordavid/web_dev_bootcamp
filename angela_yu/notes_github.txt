@@ -1,0 +1,7 @@
+### git push
+# git push -u origin main
+
+### setting up git with personal access token
+# git remote set-url origin https://<ghp_###...>/<git_repo_name>
+
+### 
