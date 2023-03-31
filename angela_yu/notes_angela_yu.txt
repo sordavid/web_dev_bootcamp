@@ -13,3 +13,23 @@
 
 ### <em> <em>
 # use this to italicize stuff
+
+### <img src="{location}" alt="{alternative text of location}"> 
+# adds an image to your webpage 
+# ex: 
+# <img src="../photos/captain_pikachu.jpeg" alt="Captain Pikachu" height="250px" width="250px">
+
+### <a href="https://google.com">Visit Google.com</a>
+# create a link for a webpage and a title for the link
+
+
+
+
+
+
+
+
+-----
+
+ARCHIVE
+### Last worked on video #20 on 3-29-22
