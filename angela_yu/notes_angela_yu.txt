@@ -22,6 +22,26 @@
 ### <a href="https://google.com">Visit Google.com</a>
 # create a link for a webpage and a title for the link
 
+### <table> <table>
+## <tr> stands for table row
+## <td> stands for table data
+# we are able to add tables into html
+# <table>
+# <tr> 
+    <td> r1 c1 </td>
+    <td> r1 c2 </td>
+# </td>
+# </table>
+
+### <thead> </thead>
+# it requires <tr> and <th> </th> table head
+
+
+
+### tbody
+# table body
+### tfoot
+# table footer
 
 
 
@@ -33,3 +53,4 @@
 
 ARCHIVE
 ### Last worked on video #20 on 3-29-22
+### Last worked on video #23 7:38 on 4-18-22
