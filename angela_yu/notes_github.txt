@@ -14,7 +14,7 @@
 # git pull {GIT HTTPS LINK FROM GITHUB}
 # ex: git pull "https://github.com/sordavid/web_dev_bootcamp.git"
 
-### git log 
+### git log   
 # views your git commits 
 
 ### git reflog

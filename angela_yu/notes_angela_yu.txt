@@ -44,8 +44,11 @@
 # table footer
 
 
-
-
+### differences between classes and IDs video 40
+# you can't use ID everywhere 
+# you can use class everywhere
+# you would use to identify elements where there is only a single element such as a heading / nav bar
+# ID selector selects only one unique element.
 
 
 
@@ -60,3 +63,4 @@ ARCHIVE
 ### Last worked on video #35 full-vid on 5-10-22
 ### Last worked on video #36 full-vid on 5-11-22
 ### Last worked on video #38 full-vid on 5-12-22
+### Last worked on video #40 full-vid on 5-23-22
