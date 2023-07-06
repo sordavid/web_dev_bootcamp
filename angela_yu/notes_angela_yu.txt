@@ -51,6 +51,19 @@
 # ID selector selects only one unique element.
 
 
+### <span>
+# it is a generic inline container for phrasing content
+
+### display: inline-block;
+# lets you change width and adds block orientation to text
+
+### position properties for css 
+## position: relative;
+# adds margin to allows position to be moved relative to where it is
+## position: static;
+# keeps position still
+## position: absolute;
+# adding margin to its parent element
 
 -----
 
@@ -66,4 +79,6 @@ ARCHIVE
 ### Last worked on video #40 full-vid on 5-23-22
 ### Last worked on video #45 full-vid on 5-25-22
 ### Last worked on video #46 full-vid on 5-30-22
+### Last worked on video #49 full-vid on 6-20-22 
+### Last worked on video #
 

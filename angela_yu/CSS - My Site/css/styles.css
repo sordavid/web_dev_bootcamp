@@ -1,19 +1,19 @@
 .top-container {
-    background-color: rgb(175, 96, 162);
-    height: 200px;
-    width: 200px;
-    border: solid red;
-    border-width: 0px 0px 20px 20px;
+    background-color: rgb(217, 142, 204);
+}
+
+.pro {
+    text-decoration: underline;
 }
 
 .middle-container {
-    background-color: antiquewhite;
+    background-color: red;
     height: 200px;
     width: 200px;
 }
 
 .bottom-container {
-    background-color: azure;
+    background-color: blue;
     height: 200px;
     width: 200px;
 }
