@@ -65,6 +65,12 @@
 ## position: absolute;
 # adding margin to its parent element
 
+## text-align:center;
+# inside a container will center everything inside that doesn't have a width set
+# if something has a width, then you must use margin: 0 auto 0; to change it as well
+
+
+
 -----
 
 ARCHIVE
@@ -80,5 +86,5 @@ ARCHIVE
 ### Last worked on video #45 full-vid on 5-25-22
 ### Last worked on video #46 full-vid on 5-30-22
 ### Last worked on video #49 full-vid on 6-20-22 
-### Last worked on video #
+### Last worked on video #51 full-vid on 7-24-22
 
