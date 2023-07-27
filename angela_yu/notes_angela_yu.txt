@@ -70,21 +70,24 @@
 # if something has a width, then you must use margin: 0 auto 0; to change it as well
 
 
+### font-size: 10rem;
+# is least error prone and will lock into whatever element it is assigned to
 
 -----
 
 ARCHIVE
-### Last worked on video #20 on 3-29-22
-### Last worked on video #23 7:38 on 4-18-22
-### Last worked on video #25 7:38 on 4-20-22
-### Last worked on video #28 full-vid on 4-20-22
-### Last worked on video #30 full-vid on 5-2-22
-### Last worked on video #35 full-vid on 5-10-22
-### Last worked on video #36 full-vid on 5-11-22
-### Last worked on video #38 full-vid on 5-12-22
-### Last worked on video #40 full-vid on 5-23-22
-### Last worked on video #45 full-vid on 5-25-22
-### Last worked on video #46 full-vid on 5-30-22
-### Last worked on video #49 full-vid on 6-20-22 
-### Last worked on video #51 full-vid on 7-24-22
+### Last worked on video #20 on 3-29-23
+### Last worked on video #23 7:38 on 4-18-23
+### Last worked on video #25 7:38 on 4-20-23
+### Last worked on video #28 full-vid on 4-20-23
+### Last worked on video #30 full-vid on 5-2-23
+### Last worked on video #35 full-vid on 5-10-23
+### Last worked on video #36 full-vid on 5-11-23
+### Last worked on video #38 full-vid on 5-12-23
+### Last worked on video #40 full-vid on 5-23-23
+### Last worked on video #45 full-vid on 5-25-23
+### Last worked on video #46 full-vid on 5-30-23
+### Last worked on video #49 full-vid on 6-20-23 
+### Last worked on video #51 full-vid on 7-24-23
+### Last worked on video #53 full-vid on 7-25-23
 
