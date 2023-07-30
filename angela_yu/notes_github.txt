@@ -36,5 +36,3 @@
 
 ### git branch -m master main 
 # try doing this whenever you are in (master) instead of (main) branch
-
-### font-size: 10 rem;
