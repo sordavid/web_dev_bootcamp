@@ -73,6 +73,17 @@
 ### font-size: 10rem;
 # is least error prone and will lock into whatever element it is assigned to
 
+### float properties CSS
+# .tennis-img 
+#    width: 15%;
+#    float: left; <--- this line
+# float will let your img float to different sides of the code
+
+### clear properties CSS
+# clear: left; 
+# this will basically make sure the left side is completely clear
+
+
 -----
 
 ARCHIVE
@@ -91,5 +102,6 @@ ARCHIVE
 ### Last worked on video #51 full-vid on 7-24-23
 ### Last worked on video #54 full-vid on 7-25-23
 ### Last worked on video #60 full-vid on 7-30-23
+### Last worked on video #6 full-vid on 10-15-23
 
 
