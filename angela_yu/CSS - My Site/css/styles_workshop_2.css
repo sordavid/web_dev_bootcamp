@@ -2,6 +2,7 @@ body {
     text-align: center;
     font-family: 'Montaga', serif;
     margin: 0px;
+    color: #40514E;
 }
 
 h1 {
@@ -17,6 +18,7 @@ h2 {
     color: #66BFBF;
     font-size: 2.5rem;
     font-weight: normal;
+    padding-bottom: 5px;
 }
 
 h3 {
@@ -46,13 +48,15 @@ h3 {
 }
 
 .middle-container {
-    
+    margin: 60px auto 20px auto;
 }
 
 
 .headline-description-david {
     line-height: 2;
     color: #40514e;
+    width: 30%;
+    margin: auto;
 }
 
 .bottom-container {
@@ -65,13 +69,13 @@ h3 {
 .top-cloud {
     position: absolute;
     right: 680px;
-    top: 50px;
+    top: 40px;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 700px;
-    bottom: 100px;
+    left: 650px;
+    bottom: 110px;
 }
 
 
@@ -85,7 +89,6 @@ h3 {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
 }
 
 .tennis-img {
@@ -103,8 +106,7 @@ h3 {
 .my-face {
     border-radius: 50%;
     width: 150px;
-    height: 200px;
-    margin-top: 40px;
+    height: 170px;
     margin-bottom: 0px;
 }
 
@@ -127,5 +129,8 @@ h3 {
     border-radius: 50%;
     display: inline-block;
     margin-bottom: 100px;
+}
 
+p {
+    line-height: 1.5;
 }
