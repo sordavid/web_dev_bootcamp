@@ -84,6 +84,16 @@
 # this will basically make sure the left side is completely clear
 
 
+
+### Video 65 - bootstrap
+# it is an open source front-end development framework for creation of websites and web apps
+# bootstrap removes the need for css 
+
+### CDN
+# content delivery network 
+
+
+
 -----
 
 ARCHIVE
@@ -104,4 +114,4 @@ ARCHIVE
 ### Last worked on video #60 full-vid on 7-30-23
 ### Last worked on video #61 full-vid on 10-15-23
 ### Last worked on video #62 full-vid on 1-15-24
-# Test
+### Last worked on video #65 full-vid on 1-28-24
